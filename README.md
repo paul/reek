@@ -45,6 +45,10 @@
 * ![](http://ruby-gem-downloads-badge.herokuapp.com/reek?type=total)
 * ![](http://ruby-gem-downloads-badge.herokuapp.com/reek?label=downloads-current-version)
 
+## Reek 5 is out!
+
+TODO
+
 ## Quickstart
 
 Reek is a tool that examines Ruby classes, modules and methods and reports any

@@ -1,5 +1,25 @@
 # Change log
 
+## 5.0.0 (TODO: Add date)
+
+Breaking changes: 
+
+* (David Fisher) Change PrimaDonnaMethod to MissingSafeMethod
+* (troessner) Drop legacy code comment separator
+* (troessner) Drop Ruby 2.1 support
+* (mvz) Allow only detector names in configuration hash
+* (mvz) Do not accept a class as parameter for reek_of
+* (troessner) Move directory directives under a special key
+* (troessner) Add yml extension to Reeks configuration file
+* (troessner) Use strings not regexes in our configuration file
+* (troessner) Replace `wiki-links` flag with `documentation` flag
+
+Non breaking changes:
+
+* (troessner) List all smells
+* (mvz) Generate versioned documentation links
+* (mvz) Only report FeatureEnvy for instance methods
+
 ## 4.8.1 (2018-04-12)
 
 * (mvz) Loosen dependency on rainbow
